@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   app:
     # Direkomendasikan menggunakan image pre-built dari registry Anda.
